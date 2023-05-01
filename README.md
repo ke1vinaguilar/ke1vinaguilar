@@ -1,6 +1,6 @@
-<h1>Hi, I'm Kelvin! <br/><a href="https://github.com/ke1vinaguilar">Programmer</a>, <a href="https://www.linkedin.com/in/kelvinaguilar/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Kelvin! <br/><a href="https://github.com/ke1vinaguilar">Programmer</a>, <a href="https://www.linkedin.com/in/kelvinaguilar/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/ke1vinaguilar/ActiveDirectoryLab)
