@@ -11,15 +11,8 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+ ce](https://www.credly.com/badges/c08c17d3-d51d-4d1d-b317-9583f0307732?source=linked_in_profile)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- I'm currently working on getting my AZ-900 Microsoft Azure Fundamentals Certification
+- Afterwards, I'm planning on getting my Splunk Core Certified User Certification
 
 
 <h2> 🤳 Connect with me:</h2>
