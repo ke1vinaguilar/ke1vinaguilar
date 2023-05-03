@@ -3,9 +3,10 @@
 <h2>👨‍💻 Projects:</h2>
 
   - <b>[Azure Cloud Resume Challenge](https://github.com/ke1vinaguilar/azure-resume)</b>
-  - <b>[Active Directory Home Lab](https://github.com/ke1vinaguilar/ActiveDirectoryLab)</b>
   - <b>[Security Information Event Manager(SIEM) Lab](https://github.com/ke1vinaguilar/SIEM-Lab)</b>
+  - <b>[Azure Cloud Detection Lab](https://github.com/ke1vinaguilar/Azure-Cloud-Detection-Lab)</b>
   - <b>[Nessus Vulnerability Management Lab](https://github.com/ke1vinaguilar/Nessus-Vulnerability-Management-Lab)</b>
+  - <b>[Active Directory Home Lab](https://github.com/ke1vinaguilar/ActiveDirectoryLab)</b>
  
 
 <h2>📄 Certifications</h2>
