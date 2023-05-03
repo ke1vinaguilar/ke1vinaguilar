@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/ke1vinaguilar/ActiveDirectoryLab)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - <b>[Azure Cloud Resume Challenge](https://github.com/ke1vinaguilar/azure-resume)</b>
+  - <b>[Active Directory Home Lab](https://github.com/ke1vinaguilar/ActiveDirectoryLab)</b>
+  - <b>[Security Information Event Manager(SIEM) Lab](https://github.com/ke1vinaguilar/SIEM-Lab)</b>
+  - <b>[Nessus Vulnerability Management Lab](https://github.com/ke1vinaguilar/Nessus-Vulnerability-Management-Lab)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b>Azure Cloud Detection Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
