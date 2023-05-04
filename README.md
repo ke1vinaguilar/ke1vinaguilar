@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - <b>[Azure Cloud Resume Challenge](https://github.com/ke1vinaguilar/azure-resume)</b>
+  - <b>[Azure Cloud Resume Challenge](https://github.com/ke1vinaguilar/azure-resume)</b> [(*Resume*)](https://www.kelvinaguilar.me/)
   - <b>[Security Information Event Manager(SIEM) Lab](https://github.com/ke1vinaguilar/SIEM-Lab)</b>
   - <b>[Azure Cloud Detection Lab](https://github.com/ke1vinaguilar/Azure-Cloud-Detection-Lab)</b>
   - <b>[Nessus Vulnerability Management Lab](https://github.com/ke1vinaguilar/Nessus-Vulnerability-Management-Lab)</b>
