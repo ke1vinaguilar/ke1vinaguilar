@@ -12,8 +12,7 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+ ce](https://www.credly.com/badges/c08c17d3-d51d-4d1d-b317-9583f0307732?source=linked_in_profile)
-- I'm currently working on getting my AZ-900 Microsoft Azure Fundamentals Certification
-- Afterwards, I'm planning on getting my Splunk Core Certified User Certification
+- I'm currently working on getting my AWS Certified Cloud Practitioner Certification
 
 
 <h2> 🤳 Connect with me:</h2>
