@@ -13,7 +13,8 @@
 <h2>📄 Certifications</h2>
 
 - [CompTIA Security+ ce](https://www.credly.com/badges/c08c17d3-d51d-4d1d-b317-9583f0307732?source=linked_in_profile)
-- I'm currently working on getting my AWS Certified Cloud Practitioner Certification
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- I'm currently working on getting my certification for AWS Cloud Practitioner
 
 
 <h2> 🤳 Connect with me:</h2>
