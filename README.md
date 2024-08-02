@@ -12,9 +12,12 @@
 
 <h2>📄 Certifications</h2>
 
-- [CompTIA Security+ ce](https://www.credly.com/badges/c08c17d3-d51d-4d1d-b317-9583f0307732?source=linked_in_profile)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- GIAC Certified Incident Handler Certification (GCIH) *PENDING*
+- GIAC Security Essentials (GSEC)
+- GIAC Foundational Cyber Security Technologies (GFACT)
 - [AWS Cloud Practitioner](https://www.credly.com/badges/2d68a725-2102-40dd-afe3-48874c9a8510)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- [CompTIA Security+ ce](https://www.credly.com/badges/c08c17d3-d51d-4d1d-b317-9583f0307732?source=linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
