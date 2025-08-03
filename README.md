@@ -12,7 +12,6 @@
 
 <h2>📄 Certifications</h2>
 
-- GIAC Certified Incident Handler Certification (GCIH) *PENDING*
 - GIAC Security Essentials (GSEC)
 - GIAC Foundational Cyber Security Technologies (GFACT)
 - [AWS Cloud Practitioner](https://www.credly.com/badges/2d68a725-2102-40dd-afe3-48874c9a8510)
